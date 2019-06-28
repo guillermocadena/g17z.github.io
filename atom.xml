@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Mi mundo -  g1tz]]></title>
   <link href="http://g17z.github.io/atom.xml" rel="self"/>
   <link href="http://g17z.github.io/"/>
-  <updated>2019-06-27T17:31:38-05:00</updated>
+  <updated>2019-06-28T12:40:42-05:00</updated>
   <id>http://g17z.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Guillermo Cadena B.]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
