@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Mi mundo]]></title>
-  <link href="http://g17z.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Notas | Mi mundo]]></title>
+  <link href="http://g17z.github.io/blog/categories/notas/atom.xml" rel="self"/>
   <link href="http://g17z.github.io/"/>
   <updated>2019-07-02T18:10:47-05:00</updated>
   <id>http://g17z.github.io/</id>
